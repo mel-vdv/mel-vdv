@@ -17,9 +17,9 @@
 <br>
 
 ---
-- Diplôme RNCP niv 6 de développeur concepteur obtenu à [Ifocop](https://www.ifocop.fr/centres-de-formation/paris-11/)
-
-- <img  alt="judoka" src=judoka.png /> Freelance sur codeur.com "melvdev"
+- <img  alt="diplome" src=diplome.png width="26px" /> Diplôme RNCP niv 6 de développeur concepteur obtenu à [Ifocop](https://www.ifocop.fr/centres-de-formation/paris-11/)
+- <img  alt="judoka" src=judo.png width="26px" /> Freelance (MELVDEV &copy;) sur codeur.com 
+- <img  alt="codewars" src=kata.png height="26px" /> Addict à codewars 4e kyu en kata Js
 
 [<img align="left" alt="linkedin" width="26px" src=linkedin-color.svg />melanie-vandervaeren](https://www.linkedin.com/in/melanie-vandervaeren/)
 
