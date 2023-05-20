@@ -11,7 +11,7 @@
 <img align="left" alt="react" width="26px" src=react-color.svg />
 <img align="left" alt="redux" width="26px" src=redux-color.svg />
 <img align="left" alt="node" width="26px" src=nodedotjs-color.svg />
-<img align="left" alt="express" width="26px" src=express.png />
+<img align="left" alt="express" height="25px" src=ex.png />
 <img align="left" alt="mongodb" width="26px" src=mongodb-color.svg />
 <img align="left" alt="firebase" width="26px" src=firebase-color.svg />
 <img align="left" alt="git" width="26px" src=git-color.svg />
