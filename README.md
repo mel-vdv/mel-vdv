@@ -17,6 +17,9 @@
 <br>
 
 ---
+- Diplôme RNCP niv 6 de développeur concepteur obtenu à [Ifocop](https://www.ifocop.fr/centres-de-formation/paris-11/)
+
+- <img  alt="judoka" src=judoka.png /> Freelance sur codeur.com "melvdev"
 
 [<img align="left" alt="linkedin" width="26px" src=linkedin-color.svg />melanie-vandervaeren](https://www.linkedin.com/in/melanie-vandervaeren/)
 
