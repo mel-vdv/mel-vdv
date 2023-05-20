@@ -6,14 +6,18 @@
 <img align="left" alt="HTML" width="26px" src=html5-color.svg />
 <img align="left" alt="CSS" width="26px" src=css3-color.svg />
 <img align="left" alt="js" width="26px" src=javascript-color.svg />
+<img align="left" alt="typescript" width="26px" src=typescript-color.svg />
 <img align="left" alt="angular" width="26px" src=angular-color.svg />
 <img align="left" alt="react" width="26px" src=react-color.svg />
 <img align="left" alt="redux" width="26px" src=redux-color.svg />
 <img align="left" alt="node" width="26px" src=nodedotjs-color.svg />
+<img align="left" alt="express" width="26px" src=express.png />
 <img align="left" alt="mongodb" width="26px" src=mongodb-color.svg />
 <img align="left" alt="firebase" width="26px" src=firebase-color.svg />
 <img align="left" alt="git" width="26px" src=git-color.svg />
 <img align="left" alt="github" width="26px" src=github-color.svg />
+<img align="left" alt="pwa" width="26px" src=pwa-color.svg />
+<img align="left" alt="figma" width="26px" src=figma-color.svg />
 
 <br>
 
