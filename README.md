@@ -18,7 +18,7 @@
 <br>
 
 ---
-- <img height="30px" alt="diplome" src=diplome.png /> Diplôme RNCP niv 6 de développeur concepteur obtenu à [Ifocop](https://www.ifocop.fr/centres-de-formation/paris-11/)
+- <img height="30px" alt="diplome" src=diplome.png /> Diplôme RNCP niv 6 de développeur concepteur obtenu à [Ifocop](https://www.ifocop.fr/centres-de-formation/paris-11/), [lien blockchain](https://www.ifocop.fr/certifications/?key=2CBE7D49294B391C1CB67E790C8A33848623DBC1D09376B51720503392ED7D2AZ1lPcWpEMEovbVpXd0YxSitOdjA1Vmw4eXF5MTVaN1YxMHJjYzdoaFpFdXhqNFd0)
 - <img height="30px" alt="freelance" src=freelance.png /> Freelance (MELVDEV &copy;) sur codeur.com 
 - <img height="30px" alt="karaté" src=judo.png /> <img  alt="codewars" src=kata.png height="26px" /> Addict à codewars 4e kyu en kata Js
 - <img height='30px' alt='chess' src=echec.png/> Fan inconditionnelle d'échecs 
