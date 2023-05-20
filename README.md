@@ -18,5 +18,8 @@
 
 ---
 
-<img align="left" alt="linkedin" src=/>
+[<img align="left" alt="linkedin" width="26px" src=linkedin-color.svg />melanie-vandervaeren](https://www.linkedin.com/in/melanie-vandervaeren/)
+
+
+
 
