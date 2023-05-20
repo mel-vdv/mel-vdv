@@ -23,7 +23,7 @@
 
 ---
 - <img height="30px" alt="diplome" src=diplome.png /> Diplôme RNCP niv 6 de Développeur Concepteur Fullstack Js obtenu à [Ifocop](https://www.ifocop.fr/centres-de-formation/paris-11/), [lien blockchain](https://www.ifocop.fr/certifications/?key=2CBE7D49294B391C1CB67E790C8A33848623DBC1D09376B51720503392ED7D2AZ1lPcWpEMEovbVpXd0YxSitOdjA1Vmw4eXF5MTVaN1YxMHJjYzdoaFpFdXhqNFd0)
-- <img height="30px" alt="freelance" src=freelance.png /> Freelance (MELVDEV &copy;) sur codeur.com 
+- <img height="30px" alt="freelance" src=freelance.png /> Freelance ([MELVDEV &copy;](https://melvdev.com) ) sur codeur.com 
 - <img height="30px" alt="karaté" src=judo.png /> <img  alt="codewars" src=kata.png height="26px" /> Addicte à [codewars](https://www.codewars.com/users/melvdev) 4e kyu en kata Js
 - <img src=pharma.png height='30px' alt='pharmacie'/> Avant de découvrir la décharge de dopamine que provoque une ligne de code qui fonctionne, j'étais pharmacienne.
 - <img height='30px' alt='chess' src=echec.png/> Fan inconditionnelle d'échecs 
